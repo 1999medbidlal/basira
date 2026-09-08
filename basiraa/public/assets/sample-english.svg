@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fdfbf7"/>
+  <rect x="40" y="40" width="1120" height="720" fill="none" stroke="#e2d9cc" stroke-width="2"/>
+  
+  <text x="100" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="bold" fill="#1e293b">
+    Chapter 1: The Magic of Reading
+  </text>
+  
+  <text x="100" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" fill="#334155">
+    Basira is a visual reading assistant that preserves the original photograph.
+  </text>
+  
+  <text x="100" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" fill="#334155">
+    Every word on this page is detected and highlighted in real time.
+  </text>
+  
+  <text x="100" y="400" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" fill="#334155">
+    You can listen to natural speech while watching the golden highlight glide across the page.
+  </text>
+  
+  <text x="100" y="480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" fill="#334155">
+    Even when the browser window is resized, alignment remains geometrically perfect.
+  </text>
+  
+  <text x="100" y="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-style="italic" fill="#64748b">
+    Page 42 • Printed in Morocco
+  </text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#ffffff"/>
+  <rect x="30" y="30" width="1140" height="740" fill="none" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4 4"/>
+  <rect x="50" y="50" width="1100" height="700" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  
+  <rect x="90" y="80" width="80" height="80" rx="16" fill="#0284c7"/>
+  <text x="130" y="132" font-family="'Outfit', sans-serif" font-size="36" fill="#ffffff" text-anchor="middle" font-weight="bold">B</text>
+  
+  <text x="190" y="115" font-family="'Outfit', sans-serif" font-size="32" font-weight="bold" fill="#0f172a">
+    OFFICIAL CERTIFICATE OF READINESS
+  </text>
+  <text x="190" y="145" font-family="'Inter', sans-serif" font-size="18" fill="#64748b">
+    Basira Visual Document Verification System • Reference #2026-BSR
+  </text>
+  
+  <line x1="90" y1="185" x2="1110" y2="185" stroke="#cbd5e1" stroke-width="1.5"/>
+  
+  <text x="90" y="240" font-family="'Inter', sans-serif" font-size="24" font-weight="600" fill="#1e293b">
+    Document Details and Verified Properties:
+  </text>
+  
+  <text x="90" y="290" font-family="'Inter', sans-serif" font-size="20" fill="#334155">
+    Recipient: Universal Reader &amp; AI Assistive Technology
+  </text>
+  <text x="90" y="335" font-family="'Inter', sans-serif" font-size="20" fill="#334155">
+    Status: Verified Local Processing with Zero Data Transmission
+  </text>
+  <text x="90" y="380" font-family="'Inter', sans-serif" font-size="20" fill="#334155">
+    Coordinate Space: 100% Deterministic Normalized Geometry
+  </text>
+  <text x="90" y="425" font-family="'Inter', sans-serif" font-size="20" fill="#334155">
+    Speech Engine: Multilingual Neural Studio Voice Synthesis
+  </text>
+  
+  <rect x="90" y="480" width="1020" height="120" rx="12" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1.5"/>
+  <text x="120" y="525" font-family="'Outfit', sans-serif" font-size="20" font-weight="600" fill="#1d4ed8">
+    Accessibility Statement:
+  </text>
+  <text x="120" y="565" font-family="'Inter', sans-serif" font-size="18" fill="#1e40af">
+    Empowering individuals with visual impairment through live photographic document reading.
+  </text>
+  
+  <text x="90" y="690" font-family="'Inter', sans-serif" font-size="16" fill="#94a3b8">
+    Authorized Signature: Dr. A. Basira • Verification Date: August 2026
+  </text>
+</svg>

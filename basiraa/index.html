@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Basira - Visual Reading Assistant for Real Photographs and Documents" />
+  <title>Basira — Visual Reading Assistant</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cairo:wght@400;600;700;800&family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/src/styles/main.css" />
+  <link rel="stylesheet" href="/src/styles/reader.css" />
+</head>
+<body>
+  <!-- Application Header -->
+  <header class="basira-header">
+    <div class="brand-container">
+      <span class="brand-logo" aria-hidden="true">👁️</span>
+      <h1 class="brand-title">Basira</h1>
+      <span class="brand-badge">Reading Assistant</span>
+    </div>
+
+    <div class="header-actions">
+      <button type="button" class="btn btn-secondary" id="btnHeaderCamera" aria-label="Open Camera">
+        <span>📷</span> Camera
+      </button>
+      <button type="button" class="btn btn-primary" id="btnHeaderUpload" aria-label="Upload Document">
+        <span>📁</span> Upload
+      </button>
+    </div>
+  </header>
+
+  <!-- Live Status / Notification Bar -->
+  <div class="basira-status-bar is-hidden" id="appStatus"></div>
+
+  <!-- Main Viewport Area -->
+  <main class="basira-main" id="appViewport"></main>
+
+  <!-- Bottom Playback & Reading Controls -->
+  <footer class="basira-controls-container" id="appControls"></footer>
+
+  <!-- Developer Diagnostic Inspector Panel -->
+  <aside class="diagnostic-container is-hidden" id="diagnosticPanel"></aside>
+
+  <!-- Settings Modal -->
+  <div class="basira-modal-wrapper is-hidden" id="settingsModal"></div>
+
+  <!-- Application Bootstrap -->
+  <script type="module" src="/src/app.js"></script>
+</body>
+</html>

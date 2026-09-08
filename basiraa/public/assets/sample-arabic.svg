@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" direction="rtl">
+  <rect width="1200" height="800" fill="#fdfbf7"/>
+  <rect x="40" y="40" width="1120" height="720" fill="none" stroke="#e2d9cc" stroke-width="2"/>
+  
+  <text x="1100" y="140" text-anchor="end" font-family="'Segoe UI', 'Arabic Typesetting', 'Amiri', 'Traditional Arabic', sans-serif" font-size="48" font-weight="bold" fill="#1e293b">
+    الفصل الأول: متعة القراءة البصرية
+  </text>
+  
+  <text x="1100" y="250" text-anchor="end" font-family="'Segoe UI', 'Arabic Typesetting', 'Amiri', 'Traditional Arabic', sans-serif" font-size="34" fill="#334155">
+    بصيرة هو المساعد القرائي البصري الذكي الذي يحافظ على الصورة الأصلية كاملة.
+  </text>
+  
+  <text x="1100" y="340" text-anchor="end" font-family="'Segoe UI', 'Arabic Typesetting', 'Amiri', 'Traditional Arabic', sans-serif" font-size="34" fill="#334155">
+    يتم تمييز كل كلمة بدقة فائقة وبشكل متزامن مع القراءة الصوتية الواضحة.
+  </text>
+  
+  <text x="1100" y="430" text-anchor="end" font-family="'Segoe UI', 'Arabic Typesetting', 'Amiri', 'Traditional Arabic', sans-serif" font-size="34" fill="#334155">
+    المعالجة تتم محلياً بالكامل على جهاز المستخدم لحماية الخصوصية التامة.
+  </text>
+  
+  <text x="1100" y="520" text-anchor="end" font-family="'Segoe UI', 'Arabic Typesetting', 'Amiri', 'Traditional Arabic', sans-serif" font-size="34" fill="#334155">
+    نظام الإحداثيات يحافظ على موضع الكلمات بدقة حتى عند تغيير حجم النافذة.
+  </text>
+  
+  <text x="1100" y="640" text-anchor="end" font-family="'Segoe UI', 'Arabic Typesetting', 'Amiri', 'Traditional Arabic', sans-serif" font-size="24" fill="#64748b">
+    الصفحة رقم 1 • طبع في المملكة المغربية
+  </text>
+</svg>
